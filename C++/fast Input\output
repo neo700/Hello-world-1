@@ -1,0 +1,28 @@
+#include <iostream>
+#include <set>
+#include <bits/stdc++.h>
+#include <limits.h>
+#include <string>
+#include <math.h>
+#include <sstream>
+#include <iomanip>
+#include <vector>
+#include <cstdlib>
+#include <algorithm>
+#include <map>
+#include <utility>
+#define ll long long int
+using namespace std;
+
+
+int main()
+{
+    std::ios::sync_with_stdio(false); // helps in fast input/output
+    cin.tie(NULL);
+    ll n,m;
+    cin>>n>>m;
+    cout<<n<<" "<<m<<endl;
+    return 0;
+}
+
+
